@@ -1,0 +1,1 @@
+This is a static website for a NGO that is working toward proving food cloths and stationary to the needy children.
